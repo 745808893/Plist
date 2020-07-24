@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>V管家</title>
+        <item>
+            <title>1.0</title>
+            <language>cn</language>
+            <sparkle:releaseNotesLink>
+                http://0.0.0.0:8000/updateNote.html
+            </sparkle:releaseNotesLink>
+            <pubDate>周三, 22 7月 2020 14:26:44 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+            <enclosure url="http://0.0.0.0:8000/VSteward.zip" sparkle:version="1.1" sparkle:shortVersionString="1.0" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>

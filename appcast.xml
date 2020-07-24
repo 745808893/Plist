@@ -10,7 +10,7 @@
 <!--            </sparkle:releaseNotesLink>-->
             <pubDate>周三, 22 7月 2020 14:26:44 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/745808893/Plist/master/VSteward.zip"  sparkle:shortVersionString="1.0" type="application/octet-stream"/>
+            <enclosure url="https://raw.githubusercontent.com/745808893/Plist/master/VSteward.zip"  sparkle:version="1.1" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>

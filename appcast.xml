@@ -3,14 +3,14 @@
     <channel>
         <title>V管家</title>
         <item>
-            <title>1.1</title>
+            <title>1.0</title>
             <language>cn</language>
 <!--            <sparkle:releaseNotesLink>-->
 <!--              https://raw.githubusercontent.com/745808893/Plist/master/updateNote.html-->
 <!--            </sparkle:releaseNotesLink>-->
             <pubDate>周三, 22 7月 2020 14:26:44 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/745808893/Plist/master/VSteward.zip"  sparkle:version="1.1" sparkle:shortVersionString="1.1" type="application/octet-stream"/>
+            <enclosure url="https://raw.githubusercontent.com/745808893/Plist/master/VSteward.zip"  sparkle:version="1.1" sparkle:shortVersionString="1" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>

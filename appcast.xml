@@ -10,9 +10,9 @@
 <!--            </sparkle:releaseNotesLink>-->
             <description style="height:80px">
                 <![CDATA[
-                    <li>1.xxx</li>
-                    <li>2.xxx</li>
-                    <li>3.xxx</li>
+                    <li style="height:20px">1.xxx</li>
+                    <li style="height:20px">2.xxx</li>
+                    <li style="height:20px">3.xxx</li>
                 ]]>
             </description>
             <pubDate>周五, 24 7月 2020 14:26:44 +0800</pubDate>

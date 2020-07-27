@@ -5,9 +5,19 @@
         <item>
             <title>1.1</title>
             <language>cn</language>
-            <sparkle:releaseNotesLink>
-              https://raw.githubusercontent.com/745808893/Plist/master/updateNote.html
-            </sparkle:releaseNotesLink>
+<!--            <sparkle:releaseNotesLink>-->
+<!--              https://raw.githubusercontent.com/745808893/Plist/master/updateNote.html-->
+<!--            </sparkle:releaseNotesLink>-->
+            <description>
+              <![CDATA[
+                <ul>
+                <li>更新内容</li>
+                <li>1.xxx</li>
+                <li>2.xxx</li>
+                <li>3.xxx</li>
+                </ul>
+              ]]>
+            </description>
             <pubDate>周五, 24 7月 2020 14:26:44 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/745808893/Plist/master/VSteward.zip" sparkle:version="2" sparkle:shortVersionString="1.1" length="7969467" type="application/octet-stream"/>

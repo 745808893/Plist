@@ -8,7 +8,7 @@
 <!--            <sparkle:releaseNotesLink>-->
 <!--              https://raw.githubusercontent.com/745808893/Plist/master/updateNote.html-->
 <!--            </sparkle:releaseNotesLink>-->
-            <description>
+            <description style="height:30px">
                 <![CDATA[
                     <li>1.xxx</li>
                     <li>2.xxx</li>

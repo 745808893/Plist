@@ -9,10 +9,8 @@
 <!--              https://raw.githubusercontent.com/745808893/Plist/master/updateNote.html-->
 <!--            </sparkle:releaseNotesLink>-->
             <description>
-                更新内容：
-                1.xxx
-                2.xxx
-                3.xxx
+                <p>更新内容</p>
+                <p>1.xxx<br/>2.xxxx</p>
             </description>
             <pubDate>周五, 24 7月 2020 14:26:44 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>

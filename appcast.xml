@@ -3,21 +3,21 @@
     <channel>
         <title>V管家</title>
         <item>
-            <title>1.1</title>
+            <title>1.2</title>
             <language>cn</language>
 <!--            <sparkle:releaseNotesLink>-->
 <!--              https://raw.githubusercontent.com/745808893/Plist/master/updateNote.html-->
 <!--            </sparkle:releaseNotesLink>-->
             <description style="height:80px">
                 <![CDATA[
-                    <li style="height:20px">1.xxx</li>
-                    <li style="height:20px">2.xxx</li>
-                    <li style="height:20px">3.xxx</li>
+                    <li style="height:20px">1.VPN模块</li>
+                    <li style="height:20px">2.微调登陆</li>
+                    <li style="height:20px">3.矫正硬盘信息</li>
                 ]]>
             </description>
-            <pubDate>周五, 24 7月 2020 14:26:44 +0800</pubDate>
+            <pubDate>周四, 6 8月 2020 18:50:44 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/745808893/Plist/master/VSteward.zip" sparkle:version="2" sparkle:shortVersionString="1.1" length="7969467" type="application/octet-stream"/>
+            <enclosure url="https://raw.githubusercontent.com/745808893/Plist/master/VSteward.zip" sparkle:version="3" sparkle:shortVersionString="1.2" length="12421479" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>

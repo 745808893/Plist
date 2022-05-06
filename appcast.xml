@@ -1,23 +1,22 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>V管家</title>
+        <title>风灵软件管家 v1.1</title>
         <item>
-            <title>1.2</title>
-            <language>cn</language>
-<!--            <sparkle:releaseNotesLink>-->
-<!--              https://raw.githubusercontent.com/745808893/Plist/master/updateNote.html-->
-<!--            </sparkle:releaseNotesLink>-->
-            <description style="height:80px">
-                <![CDATA[
-                    <li style="height:20px">1.VPN模块</li>
-                    <li style="height:20px">2.微调登陆</li>
-                    <li style="height:20px">3.矫正硬盘信息</li>
-                ]]>
-            </description>
-            <pubDate>周四, 6 8月 2020 18:50:44 +0800</pubDate>
-            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/745808893/Plist/master/VSteward.zip" sparkle:version="3" sparkle:shortVersionString="1.2" length="12421479" type="application/octet-stream"/>
+            <title>1.1</title>
+            <pubDate>Fri, 06 May 2022 11:08:52 +0800</pubDate>
+            <sparkle:version>1.1</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/745808893/Plist/master/%E9%A3%8E%E7%81%B5%E8%BD%AF%E4%BB%B6%E7%AE%A1%E5%AE%B6%20v1.1.app.zip" length="1903715" type="application/octet-stream" sparkle:edSignature="LBsNaoqPIwEkIgmbc/imYiF7yImEloauCeJtVSBOaTDfMlxQk28f3VDLYX4rZ5rsRD/izcSS3NvIVjP0F8BYDQ=="/>
+        </item>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 06 May 2022 11:05:00 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/745808893/Plist/master/%E9%A3%8E%E7%81%B5%E8%BD%AF%E4%BB%B6%E7%AE%A1%E5%AE%B6v1.0.app.zip" length="1900431" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>

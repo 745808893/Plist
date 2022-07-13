@@ -8,7 +8,7 @@
             <sparkle:version>1.1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/745808893/Plist/master/FLManager.zip" length="4868621" type="application/octet-stream" sparkle:edSignature="LBsNaoqPIwEkIgmbc/imYiF7yImEloauCeJtVSBOaTDfMlxQk28f3VDLYX4rZ5rsRD/izcSS3NvIVjP0F8BYDQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/745808893/Plist/master/FLManager.zip" type="application/octet-stream" sparkle:edSignature="XswaPmnm+ZIC6SKELqanKYnD2tgifi5JhIWeuiX1v57TtDBu/iKdZhGdnPlch72FewoHW0JnFNd5KBMq+aUSCQ==" length="4868516"/>
         </item>
     </channel>
 </rss>

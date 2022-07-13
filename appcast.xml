@@ -4,19 +4,11 @@
         <title>风灵软件管家 v1.1</title>
         <item>
             <title>1.1</title>
-            <pubDate>Fri, 06 May 2022 11:08:52 +0800</pubDate>
+            <pubDate>Wed, 13 Jul 2022 11:08:52 +0800</pubDate>
             <sparkle:version>1.1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/745808893/Plist/master/FLManager.zip" length="4176183" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Fri, 06 May 2022 11:05:00 +0800</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/745808893/Plist/master/%E9%A3%8E%E7%81%B5%E8%BD%AF%E4%BB%B6%E7%AE%A1%E5%AE%B6v1.0.app.zip" length="1900431" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>

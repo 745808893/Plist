@@ -1,14 +1,21 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>风灵软件管家 v1.1</title>
+        <title>FLManagerV1.1</title>
         <item>
             <title>1.1</title>
-            <pubDate>Wed, 13 Jul 2022 13:51:52 +0800</pubDate>
+            <pubDate>Fri, 29 Jul 2022 16:02:06 +0800</pubDate>
             <sparkle:version>1.1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/745808893/Plist/master/FLManager.zip" type="application/octet-stream" sparkle:edSignature="XswaPmnm+ZIC6SKELqanKYnD2tgifi5JhIWeuiX1v57TtDBu/iKdZhGdnPlch72FewoHW0JnFNd5KBMq+aUSCQ==" length="4868516"/>
+            <enclosure url="https://raw.githubusercontent.com/745808893/Plist/master/FLManagerV1.1.zip" length="4865226" type="application/octet-stream" sparkle:edSignature="jDeS0Lk6yTORXz0AZ22nNWpYtKar7WlHQoJAy8GPJdPtSAIDDytg3jrAgw1JGykqsgSyhS4Ngkz9mgEn1j9rCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/745808893/Plist/master/1.0-1.1.delta"
+                           sparkle:deltaFrom="1.0"
+                           length="850646"
+                           type="application/octet-stream"
+                           sparkle:edSignature="wpVx4WVGLWqqdPMnLQmReyx/zGqJw2BtHLLcDVvt0zxi8gSEo6iH5xPHvkFPxyPb4mwt5kfXsGpxdpohWcAaAQ==" />
+            </sparkle:deltas>
         </item>
     </channel>
 </rss>
